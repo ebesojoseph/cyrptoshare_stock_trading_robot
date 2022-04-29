@@ -1,0 +1,2 @@
+pandas_datareader==0.10.0
+binance_connector==1.11.0
